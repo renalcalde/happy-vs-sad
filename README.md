@@ -3,7 +3,7 @@
 A retake on a classic childhood game, Tic-Tac-Toe! 
 Instead of your typical X's and O'x, its a battle of emotions! Who will win? Happy or Sad?
 
-** [Play it here](https://anticoffee.github.io/happy-or-sad/)
+*[Play it here](https://anticoffee.github.io/happy-or-sad/)*
 
 ## About 
 While learning HTML and CSS, I wanted to build an interactive website where I can then practice my newly attained JavaScript skills.
