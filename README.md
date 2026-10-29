@@ -6,7 +6,7 @@ Instead of your typical X's and O'x, its a battle of emotions! Who will win? Hap
 *[Play it here](https://anticoffee.github.io/happy-or-sad/)*
 
 ## About 
-While learning HTML and CSS, I wanted to build an interactive website where I can then practice my newly attained JavaScript skills.
+While learning HTML and CSS, I wanted to build an interactive website where I could practice my newly attained JavaScript skills.
 After a bit of brainstorming, I decided on a mini game where users can take it on the go and play anywhere at anytime. The result? A classic game of tic-tac-toe with my own little twist.
 
 ## How to Play
